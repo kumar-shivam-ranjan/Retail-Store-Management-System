@@ -8,3 +8,4 @@
 * Admin Module
 * Employee Module
 * Customer Module
+### There are total 10 Tables in this project schemas of which is available in Tables_schema.sql
