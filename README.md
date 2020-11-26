@@ -5,6 +5,6 @@
 *  Mysql Database
 
 ### There are three Modules in this Project
-** Admin Module
-** Employee Module
-** Customer Module
+* Admin Module
+* Employee Module
+* Customer Module
