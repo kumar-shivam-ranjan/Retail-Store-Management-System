@@ -3,7 +3,8 @@
 *  spring MVC Java Framework
 *  Eclipse IDE for JAVA EE developers
 *  Mysql Database
-
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
 ### There are three Modules in this Project
 * Admin Module
 * Employee Module
@@ -35,4 +36,5 @@
 
 ## To get furthur information about me, do visit 
  https://ksrrock.github.io/ <br>
- <a href="https://ksrrock.github.io/" class="button pill">My Website</a>
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/ntkme/github-buttons/subscription" data-icon="octicon-eye" aria-label="Watch ntkme/github-buttons on GitHub">Watch</a>
