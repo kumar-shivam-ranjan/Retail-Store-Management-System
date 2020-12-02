@@ -32,3 +32,6 @@
 ![Screenshot (553)](https://user-images.githubusercontent.com/42781233/100301561-633a7800-2fbe-11eb-9659-1816caaf7070.png)
 ### `Add Item to Cart`
 ![Screenshot (552)](https://user-images.githubusercontent.com/42781233/100301562-63d30e80-2fbe-11eb-82b0-e5ecb574888c.png)
+
+##To furthur information about me, do visit 
+ `ksrrock.github.io`
