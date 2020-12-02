@@ -1,4 +1,5 @@
-# Retail-Store-Management-System
+<html>
+ # Retail-Store-Management-System
 ### This Project is built using 
 *  spring MVC Java Framework
 *  Eclipse IDE for JAVA EE developers
@@ -38,3 +39,4 @@
  https://ksrrock.github.io/ <br>
 <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/ntkme/github-buttons/subscription" data-icon="octicon-eye" aria-label="Watch ntkme/github-buttons on GitHub">Watch</a>
+</html>
