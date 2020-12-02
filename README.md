@@ -4,8 +4,7 @@
 *  spring MVC Java Framework
 *  Eclipse IDE for JAVA EE developers
 *  Mysql Database
-<!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
+
 ### There are three Modules in this Project
 * Admin Module
 * Employee Module
